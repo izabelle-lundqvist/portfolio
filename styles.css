@@ -56,7 +56,7 @@ header {
 .landing {
     text-align: center;
     padding: 100px 20px;
-    background: linear-gradient(135deg, #1A2A2F, #22303C);
+    background: linear-gradient(45deg, #159947, #1F5F5B);
 }
 
 .landing h1 {
